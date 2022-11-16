@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connected">Connecté !</string>
+    <string name="error_canceled">Erreur, authentification annulée</string>
+    <string name="unknow_error">Erreur inconnue</string>
+    <string name="no_internet">Pas de connexion réseau</string>
+</resources>
