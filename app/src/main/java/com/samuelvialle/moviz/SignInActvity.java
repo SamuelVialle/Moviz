@@ -98,6 +98,7 @@ public class SignInActvity extends AppCompatActivity {
         super.onStart();
         FirebaseUser currentUser = FirebaseAuth.getInstance().getCurrentUser();
         if(currentUser != null){
+
             startActivity(new Intent(SignInActvity.this, HomeActivity.class));
         }
 
